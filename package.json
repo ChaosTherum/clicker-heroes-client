@@ -1,0 +1,20 @@
+{
+  	"name": "clicker-heroes-client",
+  	"main": "index.html",
+  	"version:" : "v1.1",
+  	"webkit":
+  	{
+  		"plugin": true
+  	},
+  	"window":
+  	{
+  		"icon": "app.ico",
+  		"toolbar": false,
+  		"width": 1136,
+  		"height": 640
+  	},
+  	"maintainers":[ {
+  	  	"name": "dasmikko",
+  	   	"web": "https://github.com/dasmikko"
+  	}]
+}

@@ -21,3 +21,6 @@ Planned features
 * Offline mode
 
 
+Current version: **v1.1**
+
+

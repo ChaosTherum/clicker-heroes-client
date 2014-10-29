@@ -27,4 +27,6 @@ Planned features
 
 Current version: **v1.1**
 
+Grab it here: https://github.com/dasmikko/clicker-heroes-client/releases/latest
+
 
